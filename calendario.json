@@ -1,6 +1,32 @@
 [
  {
   "id": 1,
+  "data": "2026-09-26",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-26_S.jpg"
+  ],
+  "didascalia": "Anche quando non te ne accorgi.\n\nScrivi nei commenti se c'è qualcuno così per te 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Anche quando non te ne accorgi.",
+  "nota": ""
+ },
+ {
+  "id": 2,
+  "data": "2026-09-26",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Notte",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-26_N.jpg"
+  ],
+  "didascalia": "Buonanotte a chi sta ricominciando.\n\nSalvala per le notti in cui ne hai bisogno 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buonanotte a chi sta ricominciando.",
+  "nota": ""
+ },
+ {
+  "id": 3,
   "data": "2026-09-27",
   "ora": "08:00",
   "tipo": "immagine",
@@ -13,7 +39,7 @@
   "nota": "GIA PROGRAMMATO IN META BUSINESS SUITE: NON PUBBLICARE"
  },
  {
-  "id": 2,
+  "id": 4,
   "data": "2026-09-27",
   "ora": "13:00",
   "tipo": "carosello",
@@ -31,7 +57,7 @@
   "nota": ""
  },
  {
-  "id": 3,
+  "id": 5,
   "data": "2026-09-27",
   "ora": "16:00",
   "tipo": "immagine",
@@ -44,7 +70,7 @@
   "nota": ""
  },
  {
-  "id": 4,
+  "id": 6,
   "data": "2026-09-27",
   "ora": "19:00",
   "tipo": "immagine",
@@ -57,7 +83,7 @@
   "nota": ""
  },
  {
-  "id": 5,
+  "id": 7,
   "data": "2026-09-27",
   "ora": "21:30",
   "tipo": "immagine",
@@ -70,7 +96,7 @@
   "nota": ""
  },
  {
-  "id": 6,
+  "id": 8,
   "data": "2026-09-27",
   "ora": "23:30",
   "tipo": "immagine",
@@ -83,7 +109,7 @@
   "nota": ""
  },
  {
-  "id": 7,
+  "id": 9,
   "data": "2026-09-28",
   "ora": "08:00",
   "tipo": "immagine",
@@ -96,7 +122,7 @@
   "nota": ""
  },
  {
-  "id": 8,
+  "id": 10,
   "data": "2026-09-28",
   "ora": "13:00",
   "tipo": "carosello",
@@ -114,7 +140,7 @@
   "nota": ""
  },
  {
-  "id": 9,
+  "id": 11,
   "data": "2026-09-28",
   "ora": "16:00",
   "tipo": "immagine",
@@ -127,7 +153,7 @@
   "nota": ""
  },
  {
-  "id": 10,
+  "id": 12,
   "data": "2026-09-28",
   "ora": "19:00",
   "tipo": "immagine",
@@ -140,7 +166,7 @@
   "nota": ""
  },
  {
-  "id": 11,
+  "id": 13,
   "data": "2026-09-28",
   "ora": "21:30",
   "tipo": "immagine",
@@ -153,7 +179,7 @@
   "nota": ""
  },
  {
-  "id": 12,
+  "id": 14,
   "data": "2026-09-28",
   "ora": "23:30",
   "tipo": "immagine",
@@ -166,7 +192,7 @@
   "nota": ""
  },
  {
-  "id": 13,
+  "id": 15,
   "data": "2026-09-29",
   "ora": "08:00",
   "tipo": "immagine",
@@ -179,7 +205,7 @@
   "nota": ""
  },
  {
-  "id": 14,
+  "id": 16,
   "data": "2026-09-29",
   "ora": "13:00",
   "tipo": "carosello",
@@ -197,7 +223,7 @@
   "nota": ""
  },
  {
-  "id": 15,
+  "id": 17,
   "data": "2026-09-29",
   "ora": "16:00",
   "tipo": "immagine",
@@ -210,7 +236,7 @@
   "nota": ""
  },
  {
-  "id": 16,
+  "id": 18,
   "data": "2026-09-29",
   "ora": "19:00",
   "tipo": "immagine",
@@ -223,7 +249,7 @@
   "nota": ""
  },
  {
-  "id": 17,
+  "id": 19,
   "data": "2026-09-29",
   "ora": "21:30",
   "tipo": "immagine",
@@ -236,7 +262,7 @@
   "nota": ""
  },
  {
-  "id": 18,
+  "id": 20,
   "data": "2026-09-29",
   "ora": "23:30",
   "tipo": "immagine",
@@ -249,7 +275,7 @@
   "nota": ""
  },
  {
-  "id": 19,
+  "id": 21,
   "data": "2026-09-30",
   "ora": "08:00",
   "tipo": "immagine",
@@ -262,7 +288,7 @@
   "nota": ""
  },
  {
-  "id": 20,
+  "id": 22,
   "data": "2026-09-30",
   "ora": "13:00",
   "tipo": "carosello",
@@ -280,7 +306,7 @@
   "nota": ""
  },
  {
-  "id": 21,
+  "id": 23,
   "data": "2026-09-30",
   "ora": "16:00",
   "tipo": "immagine",
@@ -293,7 +319,7 @@
   "nota": ""
  },
  {
-  "id": 22,
+  "id": 24,
   "data": "2026-09-30",
   "ora": "19:00",
   "tipo": "immagine",
@@ -306,7 +332,7 @@
   "nota": ""
  },
  {
-  "id": 23,
+  "id": 25,
   "data": "2026-09-30",
   "ora": "21:30",
   "tipo": "immagine",
@@ -319,7 +345,7 @@
   "nota": ""
  },
  {
-  "id": 24,
+  "id": 26,
   "data": "2026-09-30",
   "ora": "23:30",
   "tipo": "immagine",
@@ -332,7 +358,7 @@
   "nota": ""
  },
  {
-  "id": 25,
+  "id": 27,
   "data": "2026-10-01",
   "ora": "08:00",
   "tipo": "immagine",
@@ -345,7 +371,7 @@
   "nota": ""
  },
  {
-  "id": 26,
+  "id": 28,
   "data": "2026-10-01",
   "ora": "13:00",
   "tipo": "carosello",
@@ -363,7 +389,7 @@
   "nota": ""
  },
  {
-  "id": 27,
+  "id": 29,
   "data": "2026-10-01",
   "ora": "16:00",
   "tipo": "immagine",
@@ -376,7 +402,7 @@
   "nota": ""
  },
  {
-  "id": 28,
+  "id": 30,
   "data": "2026-10-01",
   "ora": "19:00",
   "tipo": "immagine",
@@ -389,7 +415,7 @@
   "nota": ""
  },
  {
-  "id": 29,
+  "id": 31,
   "data": "2026-10-01",
   "ora": "21:30",
   "tipo": "immagine",
@@ -402,7 +428,7 @@
   "nota": ""
  },
  {
-  "id": 30,
+  "id": 32,
   "data": "2026-10-01",
   "ora": "23:30",
   "tipo": "immagine",
@@ -415,7 +441,7 @@
   "nota": ""
  },
  {
-  "id": 31,
+  "id": 33,
   "data": "2026-10-02",
   "ora": "08:00",
   "tipo": "immagine",
@@ -428,7 +454,7 @@
   "nota": ""
  },
  {
-  "id": 32,
+  "id": 34,
   "data": "2026-10-02",
   "ora": "13:00",
   "tipo": "carosello",
@@ -446,7 +472,7 @@
   "nota": ""
  },
  {
-  "id": 33,
+  "id": 35,
   "data": "2026-10-02",
   "ora": "16:00",
   "tipo": "immagine",
@@ -459,7 +485,7 @@
   "nota": ""
  },
  {
-  "id": 34,
+  "id": 36,
   "data": "2026-10-02",
   "ora": "19:00",
   "tipo": "immagine",
@@ -472,7 +498,7 @@
   "nota": ""
  },
  {
-  "id": 35,
+  "id": 37,
   "data": "2026-10-02",
   "ora": "21:30",
   "tipo": "immagine",
@@ -485,7 +511,7 @@
   "nota": ""
  },
  {
-  "id": 36,
+  "id": 38,
   "data": "2026-10-02",
   "ora": "23:30",
   "tipo": "immagine",
@@ -498,7 +524,7 @@
   "nota": ""
  },
  {
-  "id": 37,
+  "id": 39,
   "data": "2026-10-03",
   "ora": "08:00",
   "tipo": "immagine",
@@ -511,7 +537,7 @@
   "nota": ""
  },
  {
-  "id": 38,
+  "id": 40,
   "data": "2026-10-03",
   "ora": "13:00",
   "tipo": "carosello",
@@ -529,7 +555,7 @@
   "nota": ""
  },
  {
-  "id": 39,
+  "id": 41,
   "data": "2026-10-03",
   "ora": "16:00",
   "tipo": "immagine",
@@ -542,7 +568,7 @@
   "nota": ""
  },
  {
-  "id": 40,
+  "id": 42,
   "data": "2026-10-03",
   "ora": "19:00",
   "tipo": "immagine",
@@ -555,7 +581,7 @@
   "nota": ""
  },
  {
-  "id": 41,
+  "id": 43,
   "data": "2026-10-03",
   "ora": "21:30",
   "tipo": "immagine",
@@ -568,7 +594,7 @@
   "nota": ""
  },
  {
-  "id": 42,
+  "id": 44,
   "data": "2026-10-03",
   "ora": "23:30",
   "tipo": "immagine",
@@ -581,7 +607,7 @@
   "nota": ""
  },
  {
-  "id": 43,
+  "id": 45,
   "data": "2026-10-04",
   "ora": "08:00",
   "tipo": "immagine",
@@ -594,7 +620,7 @@
   "nota": ""
  },
  {
-  "id": 44,
+  "id": 46,
   "data": "2026-10-04",
   "ora": "13:00",
   "tipo": "carosello",
@@ -612,7 +638,7 @@
   "nota": ""
  },
  {
-  "id": 45,
+  "id": 47,
   "data": "2026-10-04",
   "ora": "16:00",
   "tipo": "immagine",
@@ -625,7 +651,7 @@
   "nota": ""
  },
  {
-  "id": 46,
+  "id": 48,
   "data": "2026-10-04",
   "ora": "19:00",
   "tipo": "immagine",
@@ -638,7 +664,7 @@
   "nota": ""
  },
  {
-  "id": 47,
+  "id": 49,
   "data": "2026-10-04",
   "ora": "21:30",
   "tipo": "immagine",
@@ -651,7 +677,7 @@
   "nota": ""
  },
  {
-  "id": 48,
+  "id": 50,
   "data": "2026-10-04",
   "ora": "23:30",
   "tipo": "immagine",
@@ -664,7 +690,7 @@
   "nota": ""
  },
  {
-  "id": 49,
+  "id": 51,
   "data": "2026-10-05",
   "ora": "08:00",
   "tipo": "immagine",
@@ -677,7 +703,7 @@
   "nota": ""
  },
  {
-  "id": 50,
+  "id": 52,
   "data": "2026-10-05",
   "ora": "13:00",
   "tipo": "carosello",
@@ -695,7 +721,7 @@
   "nota": ""
  },
  {
-  "id": 51,
+  "id": 53,
   "data": "2026-10-05",
   "ora": "16:00",
   "tipo": "immagine",
@@ -708,7 +734,7 @@
   "nota": ""
  },
  {
-  "id": 52,
+  "id": 54,
   "data": "2026-10-05",
   "ora": "19:00",
   "tipo": "immagine",
@@ -721,7 +747,7 @@
   "nota": ""
  },
  {
-  "id": 53,
+  "id": 55,
   "data": "2026-10-05",
   "ora": "21:30",
   "tipo": "immagine",
@@ -734,7 +760,7 @@
   "nota": ""
  },
  {
-  "id": 54,
+  "id": 56,
   "data": "2026-10-05",
   "ora": "23:30",
   "tipo": "immagine",
@@ -747,7 +773,7 @@
   "nota": ""
  },
  {
-  "id": 55,
+  "id": 57,
   "data": "2026-10-06",
   "ora": "08:00",
   "tipo": "immagine",
@@ -760,7 +786,7 @@
   "nota": ""
  },
  {
-  "id": 56,
+  "id": 58,
   "data": "2026-10-06",
   "ora": "13:00",
   "tipo": "carosello",
@@ -778,7 +804,7 @@
   "nota": ""
  },
  {
-  "id": 57,
+  "id": 59,
   "data": "2026-10-06",
   "ora": "16:00",
   "tipo": "immagine",
@@ -791,7 +817,7 @@
   "nota": ""
  },
  {
-  "id": 58,
+  "id": 60,
   "data": "2026-10-06",
   "ora": "19:00",
   "tipo": "immagine",
@@ -804,7 +830,7 @@
   "nota": ""
  },
  {
-  "id": 59,
+  "id": 61,
   "data": "2026-10-06",
   "ora": "21:30",
   "tipo": "immagine",
@@ -817,7 +843,7 @@
   "nota": ""
  },
  {
-  "id": 60,
+  "id": 62,
   "data": "2026-10-06",
   "ora": "23:30",
   "tipo": "immagine",
@@ -830,7 +856,7 @@
   "nota": ""
  },
  {
-  "id": 61,
+  "id": 63,
   "data": "2026-10-07",
   "ora": "08:00",
   "tipo": "immagine",
@@ -843,7 +869,7 @@
   "nota": ""
  },
  {
-  "id": 62,
+  "id": 64,
   "data": "2026-10-07",
   "ora": "13:00",
   "tipo": "carosello",
@@ -861,7 +887,7 @@
   "nota": ""
  },
  {
-  "id": 63,
+  "id": 65,
   "data": "2026-10-07",
   "ora": "16:00",
   "tipo": "immagine",
@@ -874,7 +900,7 @@
   "nota": ""
  },
  {
-  "id": 64,
+  "id": 66,
   "data": "2026-10-07",
   "ora": "19:00",
   "tipo": "immagine",
@@ -887,7 +913,7 @@
   "nota": ""
  },
  {
-  "id": 65,
+  "id": 67,
   "data": "2026-10-07",
   "ora": "21:30",
   "tipo": "immagine",
@@ -900,7 +926,7 @@
   "nota": ""
  },
  {
-  "id": 66,
+  "id": 68,
   "data": "2026-10-07",
   "ora": "23:30",
   "tipo": "immagine",
@@ -913,7 +939,7 @@
   "nota": ""
  },
  {
-  "id": 67,
+  "id": 69,
   "data": "2026-10-08",
   "ora": "08:00",
   "tipo": "immagine",
@@ -926,7 +952,7 @@
   "nota": ""
  },
  {
-  "id": 68,
+  "id": 70,
   "data": "2026-10-08",
   "ora": "13:00",
   "tipo": "carosello",
@@ -944,7 +970,7 @@
   "nota": ""
  },
  {
-  "id": 69,
+  "id": 71,
   "data": "2026-10-08",
   "ora": "16:00",
   "tipo": "immagine",
@@ -957,7 +983,7 @@
   "nota": ""
  },
  {
-  "id": 70,
+  "id": 72,
   "data": "2026-10-08",
   "ora": "19:00",
   "tipo": "immagine",
@@ -970,7 +996,7 @@
   "nota": ""
  },
  {
-  "id": 71,
+  "id": 73,
   "data": "2026-10-08",
   "ora": "21:30",
   "tipo": "immagine",
@@ -983,7 +1009,7 @@
   "nota": ""
  },
  {
-  "id": 72,
+  "id": 74,
   "data": "2026-10-08",
   "ora": "23:30",
   "tipo": "immagine",
@@ -996,7 +1022,7 @@
   "nota": ""
  },
  {
-  "id": 73,
+  "id": 75,
   "data": "2026-10-09",
   "ora": "08:00",
   "tipo": "immagine",
@@ -1009,7 +1035,7 @@
   "nota": ""
  },
  {
-  "id": 74,
+  "id": 76,
   "data": "2026-10-09",
   "ora": "13:00",
   "tipo": "carosello",
@@ -1027,7 +1053,7 @@
   "nota": ""
  },
  {
-  "id": 75,
+  "id": 77,
   "data": "2026-10-09",
   "ora": "16:00",
   "tipo": "immagine",
@@ -1040,7 +1066,7 @@
   "nota": ""
  },
  {
-  "id": 76,
+  "id": 78,
   "data": "2026-10-09",
   "ora": "19:00",
   "tipo": "immagine",
@@ -1053,7 +1079,7 @@
   "nota": ""
  },
  {
-  "id": 77,
+  "id": 79,
   "data": "2026-10-09",
   "ora": "21:30",
   "tipo": "immagine",
@@ -1066,7 +1092,7 @@
   "nota": ""
  },
  {
-  "id": 78,
+  "id": 80,
   "data": "2026-10-09",
   "ora": "23:30",
   "tipo": "immagine",
@@ -1079,7 +1105,7 @@
   "nota": ""
  },
  {
-  "id": 79,
+  "id": 81,
   "data": "2026-10-10",
   "ora": "08:00",
   "tipo": "immagine",
@@ -1092,7 +1118,7 @@
   "nota": ""
  },
  {
-  "id": 80,
+  "id": 82,
   "data": "2026-10-10",
   "ora": "13:00",
   "tipo": "carosello",
@@ -1110,7 +1136,7 @@
   "nota": ""
  },
  {
-  "id": 81,
+  "id": 83,
   "data": "2026-10-10",
   "ora": "16:00",
   "tipo": "immagine",
@@ -1123,7 +1149,7 @@
   "nota": ""
  },
  {
-  "id": 82,
+  "id": 84,
   "data": "2026-10-10",
   "ora": "19:00",
   "tipo": "immagine",
@@ -1136,7 +1162,7 @@
   "nota": ""
  },
  {
-  "id": 83,
+  "id": 85,
   "data": "2026-10-10",
   "ora": "21:30",
   "tipo": "immagine",
@@ -1149,7 +1175,7 @@
   "nota": ""
  },
  {
-  "id": 84,
+  "id": 86,
   "data": "2026-10-10",
   "ora": "23:30",
   "tipo": "immagine",
