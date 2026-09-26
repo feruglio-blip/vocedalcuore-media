@@ -33,6 +33,32 @@
  {
   "id": 3,
   "data": "2026-09-27",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-27_P.jpg"
+  ],
+  "didascalia": "Nessuno te lo deve concedere.\n\nSalvala per i giorni in cui te lo dimentichi 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Nessuno te lo deve concedere.",
+  "nota": ""
+ },
+ {
+  "id": 4,
+  "data": "2026-09-27",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-27_T.jpg"
+  ],
+  "didascalia": "Il resto è ansia, non amore.\n\nTagga chi ti fa dormire tranquilla 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Il resto è ansia, non amore.",
+  "nota": ""
+ },
+ {
+  "id": 5,
+  "data": "2026-09-27",
   "ora": "21:30",
   "tipo": "immagine",
   "tema": "Nostalgia",
@@ -44,7 +70,20 @@
   "nota": ""
  },
  {
-  "id": 4,
+  "id": 6,
+  "data": "2026-09-27",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Notte",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-27_N.jpg"
+  ],
+  "didascalia": "Buonanotte a chi non riesce a dormire.\n\nSalvala per le notti lunghe 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buonanotte a chi non riesce a dormire.",
+  "nota": ""
+ },
+ {
+  "id": 7,
   "data": "2026-09-28",
   "ora": "08:00",
   "tipo": "immagine",
@@ -57,7 +96,7 @@
   "nota": ""
  },
  {
-  "id": 5,
+  "id": 8,
   "data": "2026-09-28",
   "ora": "13:00",
   "tipo": "carosello",
@@ -75,7 +114,33 @@
   "nota": ""
  },
  {
-  "id": 6,
+  "id": 9,
+  "data": "2026-09-28",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Delusione",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-28_P.jpg"
+  ],
+  "didascalia": "Succede quando si ama troppo in fretta.\n\nScrivi nei commenti se ti è capitato 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Succede quando si ama troppo in fretta.",
+  "nota": ""
+ },
+ {
+  "id": 10,
+  "data": "2026-09-28",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-28_T.jpg"
+  ],
+  "didascalia": "Sono i dettagli a dire tutto.\n\nTagga chi ti ascolta davvero 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Sono i dettagli a dire tutto.",
+  "nota": ""
+ },
+ {
+  "id": 11,
   "data": "2026-09-28",
   "ora": "21:30",
   "tipo": "immagine",
@@ -88,7 +153,20 @@
   "nota": ""
  },
  {
-  "id": 7,
+  "id": 12,
+  "data": "2026-09-28",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-28_N.jpg"
+  ],
+  "didascalia": "La differenza è tutta lì.\n\nScrivi nei commenti se ti è successo 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "La differenza è tutta lì.",
+  "nota": ""
+ },
+ {
+  "id": 13,
   "data": "2026-09-29",
   "ora": "08:00",
   "tipo": "immagine",
@@ -101,7 +179,7 @@
   "nota": ""
  },
  {
-  "id": 8,
+  "id": 14,
   "data": "2026-09-29",
   "ora": "13:00",
   "tipo": "carosello",
@@ -119,7 +197,33 @@
   "nota": ""
  },
  {
-  "id": 9,
+  "id": 15,
+  "data": "2026-09-29",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Lasciare andare",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-29_P.jpg"
+  ],
+  "didascalia": "Anche se fa male chiuderla.\n\nMandala a chi deve chiudere una porta 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Anche se fa male chiuderla.",
+  "nota": ""
+ },
+ {
+  "id": 16,
+  "data": "2026-09-29",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Delusione",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-29_T.jpg"
+  ],
+  "didascalia": "Riconoscerlo è il primo passo.\n\nScrivi nei commenti se l'hai capito anche tu 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Riconoscerlo è il primo passo.",
+  "nota": ""
+ },
+ {
+  "id": 17,
   "data": "2026-09-29",
   "ora": "21:30",
   "tipo": "immagine",
@@ -132,7 +236,20 @@
   "nota": ""
  },
  {
-  "id": 10,
+  "id": 18,
+  "data": "2026-09-29",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Silenzio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-29_N.jpg"
+  ],
+  "didascalia": "Stanotte dille.\n\nMandala a chi deve sentirle 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Stanotte dille.",
+  "nota": ""
+ },
+ {
+  "id": 19,
   "data": "2026-09-30",
   "ora": "08:00",
   "tipo": "immagine",
@@ -145,7 +262,7 @@
   "nota": ""
  },
  {
-  "id": 11,
+  "id": 20,
   "data": "2026-09-30",
   "ora": "13:00",
   "tipo": "carosello",
@@ -163,7 +280,33 @@
   "nota": ""
  },
  {
-  "id": 12,
+  "id": 21,
+  "data": "2026-09-30",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Dignità",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-30_P.jpg"
+  ],
+  "didascalia": "Il resto viene dopo.\n\nSalvala per quando ti servirà coraggio 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Il resto viene dopo.",
+  "nota": ""
+ },
+ {
+  "id": 22,
+  "data": "2026-09-30",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-30_T.jpg"
+  ],
+  "didascalia": "Soprattutto in quelli.\n\nTagga chi resta nei tuoi giorni storti 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Soprattutto in quelli.",
+  "nota": ""
+ },
+ {
+  "id": 23,
   "data": "2026-09-30",
   "ora": "21:30",
   "tipo": "immagine",
@@ -176,7 +319,20 @@
   "nota": ""
  },
  {
-  "id": 13,
+  "id": 24,
+  "data": "2026-09-30",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-09-30_N.jpg"
+  ],
+  "didascalia": "Tutto qui.\n\nTagga chi vorresti accanto stanotte 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Tutto qui.",
+  "nota": ""
+ },
+ {
+  "id": 25,
   "data": "2026-10-01",
   "ora": "08:00",
   "tipo": "immagine",
@@ -189,7 +345,7 @@
   "nota": ""
  },
  {
-  "id": 14,
+  "id": 26,
   "data": "2026-10-01",
   "ora": "13:00",
   "tipo": "carosello",
@@ -207,7 +363,33 @@
   "nota": ""
  },
  {
-  "id": 15,
+  "id": 27,
+  "data": "2026-10-01",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-01_P.jpg"
+  ],
+  "didascalia": "Cambia posto, non te stessa.\n\nTagga chi deve sentirselo dire oggi 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Cambia posto, non te stessa.",
+  "nota": ""
+ },
+ {
+  "id": 28,
+  "data": "2026-10-01",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-01_T.jpg"
+  ],
+  "didascalia": "E la mia di allora.\n\nScrivi nei commenti quale canzone non riesci più ad ascoltare 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "E la mia di allora.",
+  "nota": ""
+ },
+ {
+  "id": 29,
   "data": "2026-10-01",
   "ora": "21:30",
   "tipo": "immagine",
@@ -220,7 +402,20 @@
   "nota": ""
  },
  {
-  "id": 16,
+  "id": 30,
+  "data": "2026-10-01",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Notte",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-01_N.jpg"
+  ],
+  "didascalia": "E sei ancora qui.\n\nMandala a chi sta passando una notte difficile 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "E sei ancora qui.",
+  "nota": ""
+ },
+ {
+  "id": 31,
   "data": "2026-10-02",
   "ora": "08:00",
   "tipo": "immagine",
@@ -233,7 +428,7 @@
   "nota": ""
  },
  {
-  "id": 17,
+  "id": 32,
   "data": "2026-10-02",
   "ora": "13:00",
   "tipo": "carosello",
@@ -251,7 +446,33 @@
   "nota": ""
  },
  {
-  "id": 18,
+  "id": 33,
+  "data": "2026-10-02",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Rinascita",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-02_P.jpg"
+  ],
+  "didascalia": "E questo conta più di tutto.\n\nCondividila nelle storie se cammini anche tu 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "E questo conta più di tutto.",
+  "nota": ""
+ },
+ {
+  "id": 34,
+  "data": "2026-10-02",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amicizia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-02_T.jpg"
+  ],
+  "didascalia": "Pochi, ma per sempre.\n\nTagga un amico vero 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Pochi, ma per sempre.",
+  "nota": ""
+ },
+ {
+  "id": 35,
   "data": "2026-10-02",
   "ora": "21:30",
   "tipo": "immagine",
@@ -264,7 +485,20 @@
   "nota": ""
  },
  {
-  "id": 19,
+  "id": 36,
+  "data": "2026-10-02",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Delusione",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-02_N.jpg"
+  ],
+  "didascalia": "Di giorno sparivano.\n\nSalvala se ci sei passata anche tu 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Di giorno sparivano.",
+  "nota": ""
+ },
+ {
+  "id": 37,
   "data": "2026-10-03",
   "ora": "08:00",
   "tipo": "immagine",
@@ -277,7 +511,7 @@
   "nota": ""
  },
  {
-  "id": 20,
+  "id": 38,
   "data": "2026-10-03",
   "ora": "13:00",
   "tipo": "carosello",
@@ -295,7 +529,33 @@
   "nota": ""
  },
  {
-  "id": 21,
+  "id": 39,
+  "data": "2026-10-03",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Dignità",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-03_P.jpg"
+  ],
+  "didascalia": "Tutto il resto è una giustificazione.\n\nMandala a chi si giustifica sempre 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Tutto il resto è una giustificazione.",
+  "nota": ""
+ },
+ {
+  "id": 40,
+  "data": "2026-10-03",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-03_T.jpg"
+  ],
+  "didascalia": "Non sempre. Ma con la persona giusta sì.\n\nTagga chi è rimasto 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Non sempre. Ma con la persona giusta sì.",
+  "nota": ""
+ },
+ {
+  "id": 41,
   "data": "2026-10-03",
   "ora": "21:30",
   "tipo": "immagine",
@@ -308,7 +568,20 @@
   "nota": ""
  },
  {
-  "id": 22,
+  "id": 42,
+  "data": "2026-10-03",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-03_N.jpg"
+  ],
+  "didascalia": "Un po' meno di ieri.\n\nScrivi nei commenti se anche tu ci provi 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Un po' meno di ieri.",
+  "nota": ""
+ },
+ {
+  "id": 43,
   "data": "2026-10-04",
   "ora": "08:00",
   "tipo": "immagine",
@@ -321,7 +594,7 @@
   "nota": ""
  },
  {
-  "id": 23,
+  "id": 44,
   "data": "2026-10-04",
   "ora": "13:00",
   "tipo": "carosello",
@@ -339,7 +612,33 @@
   "nota": ""
  },
  {
-  "id": 24,
+  "id": 45,
+  "data": "2026-10-04",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-04_P.jpg"
+  ],
+  "didascalia": "La scelta più difficile e più giusta.\n\nScrivi nei commenti se ti sei scelta anche tu 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "La scelta più difficile e più giusta.",
+  "nota": ""
+ },
+ {
+  "id": 46,
+  "data": "2026-10-04",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Delusione",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-04_T.jpg"
+  ],
+  "didascalia": "Adesso ho imparato a contare.\n\nMandala a chi dà sempre troppo 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Adesso ho imparato a contare.",
+  "nota": ""
+ },
+ {
+  "id": 47,
   "data": "2026-10-04",
   "ora": "21:30",
   "tipo": "immagine",
@@ -352,7 +651,20 @@
   "nota": ""
  },
  {
-  "id": 25,
+  "id": 48,
+  "data": "2026-10-04",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-04_N.jpg"
+  ],
+  "didascalia": "E poi vai a dormire.\n\nMandala a chi sta per scrivergli 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "E poi vai a dormire.",
+  "nota": ""
+ },
+ {
+  "id": 49,
   "data": "2026-10-05",
   "ora": "08:00",
   "tipo": "immagine",
@@ -365,7 +677,7 @@
   "nota": ""
  },
  {
-  "id": 26,
+  "id": 50,
   "data": "2026-10-05",
   "ora": "13:00",
   "tipo": "carosello",
@@ -383,7 +695,33 @@
   "nota": ""
  },
  {
-  "id": 27,
+  "id": 51,
+  "data": "2026-10-05",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Il tempo",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-05_P.jpg"
+  ],
+  "didascalia": "Abbi pazienza con la tua strada.\n\nSalvala per quando ti sentirai in ritardo 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Abbi pazienza con la tua strada.",
+  "nota": ""
+ },
+ {
+  "id": 52,
+  "data": "2026-10-05",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-05_T.jpg"
+  ],
+  "didascalia": "Quelli pieni, non quelli vuoti.\n\nTagga chi capisce i tuoi silenzi 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Quelli pieni, non quelli vuoti.",
+  "nota": ""
+ },
+ {
+  "id": 53,
   "data": "2026-10-05",
   "ora": "21:30",
   "tipo": "immagine",
@@ -396,7 +734,20 @@
   "nota": ""
  },
  {
-  "id": 28,
+  "id": 54,
+  "data": "2026-10-05",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Notte",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-05_N.jpg"
+  ],
+  "didascalia": "Buonanotte, un passo alla volta.\n\nSalvala per quando ti sembra tutto troppo 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buonanotte, un passo alla volta.",
+  "nota": ""
+ },
+ {
+  "id": 55,
   "data": "2026-10-06",
   "ora": "08:00",
   "tipo": "immagine",
@@ -409,7 +760,7 @@
   "nota": ""
  },
  {
-  "id": 29,
+  "id": 56,
   "data": "2026-10-06",
   "ora": "13:00",
   "tipo": "carosello",
@@ -427,7 +778,33 @@
   "nota": ""
  },
  {
-  "id": 30,
+  "id": 57,
+  "data": "2026-10-06",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Gentilezza",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-06_P.jpg"
+  ],
+  "didascalia": "È la forza più rara.\n\nTagga una persona gentile 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "È la forza più rara.",
+  "nota": ""
+ },
+ {
+  "id": 58,
+  "data": "2026-10-06",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Lasciare andare",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-06_T.jpg"
+  ],
+  "didascalia": "E poi si va avanti.\n\nSalvala per quando cercherai spiegazioni 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "E poi si va avanti.",
+  "nota": ""
+ },
+ {
+  "id": 59,
   "data": "2026-10-06",
   "ora": "21:30",
   "tipo": "immagine",
@@ -440,7 +817,20 @@
   "nota": ""
  },
  {
-  "id": 31,
+  "id": 60,
+  "data": "2026-10-06",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-06_N.jpg"
+  ],
+  "didascalia": "Buonanotte a chi ce l'ha.\n\nTagga il tuo posto più bello 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buonanotte a chi ce l'ha.",
+  "nota": ""
+ },
+ {
+  "id": 61,
   "data": "2026-10-07",
   "ora": "08:00",
   "tipo": "immagine",
@@ -453,7 +843,7 @@
   "nota": ""
  },
  {
-  "id": 32,
+  "id": 62,
   "data": "2026-10-07",
   "ora": "13:00",
   "tipo": "carosello",
@@ -471,7 +861,33 @@
   "nota": ""
  },
  {
-  "id": 33,
+  "id": 63,
+  "data": "2026-10-07",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Lasciare andare",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-07_P.jpg"
+  ],
+  "didascalia": "Alcune risposte arrivano camminando.\n\nMandala a chi è bloccato sul perché 🖤\n\n#frasi #frasiamore #frasidelusione #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Alcune risposte arrivano camminando.",
+  "nota": ""
+ },
+ {
+  "id": 64,
+  "data": "2026-10-07",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-07_T.jpg"
+  ],
+  "didascalia": "Mai più meno di così.\n\nTagga chi ti fa sentire abbastanza 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Mai più meno di così.",
+  "nota": ""
+ },
+ {
+  "id": 65,
   "data": "2026-10-07",
   "ora": "21:30",
   "tipo": "immagine",
@@ -484,7 +900,20 @@
   "nota": ""
  },
  {
-  "id": 34,
+  "id": 66,
+  "data": "2026-10-07",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Silenzio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-07_N.jpg"
+  ],
+  "didascalia": "Il silenzio a volte è cura.\n\nScrivi nei commenti se hai fatto lo stesso 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Il silenzio a volte è cura.",
+  "nota": ""
+ },
+ {
+  "id": 67,
   "data": "2026-10-08",
   "ora": "08:00",
   "tipo": "immagine",
@@ -497,7 +926,7 @@
   "nota": ""
  },
  {
-  "id": 35,
+  "id": 68,
   "data": "2026-10-08",
   "ora": "13:00",
   "tipo": "carosello",
@@ -515,7 +944,33 @@
   "nota": ""
  },
  {
-  "id": 36,
+  "id": 69,
+  "data": "2026-10-08",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Dignità",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-08_P.jpg"
+  ],
+  "didascalia": "Le energie mi servono per altro.\n\nCondividila nelle storie se la pensi così 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Le energie mi servono per altro.",
+  "nota": ""
+ },
+ {
+  "id": 70,
+  "data": "2026-10-08",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Famiglia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-08_T.jpg"
+  ],
+  "didascalia": "Buona sera a chi ha una casa così.\n\nTagga chi ti aspetta sempre 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buona sera a chi ha una casa così.",
+  "nota": ""
+ },
+ {
+  "id": 71,
   "data": "2026-10-08",
   "ora": "21:30",
   "tipo": "immagine",
@@ -528,7 +983,20 @@
   "nota": ""
  },
  {
-  "id": 37,
+  "id": 72,
+  "data": "2026-10-08",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-08_N.jpg"
+  ],
+  "didascalia": "Buonanotte a chi ne ha uno.\n\nTagga chi è nel tuo ricordo più bello 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Buonanotte a chi ne ha uno.",
+  "nota": ""
+ },
+ {
+  "id": 73,
   "data": "2026-10-09",
   "ora": "08:00",
   "tipo": "immagine",
@@ -541,7 +1009,7 @@
   "nota": ""
  },
  {
-  "id": 38,
+  "id": 74,
   "data": "2026-10-09",
   "ora": "13:00",
   "tipo": "carosello",
@@ -559,7 +1027,33 @@
   "nota": ""
  },
  {
-  "id": 39,
+  "id": 75,
+  "data": "2026-10-09",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-09_P.jpg"
+  ],
+  "didascalia": "Leggila finché non ci credi.\n\nTagga chi lo deve ricordare 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Leggila finché non ci credi.",
+  "nota": ""
+ },
+ {
+  "id": 76,
+  "data": "2026-10-09",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-09_T.jpg"
+  ],
+  "didascalia": "È diverso, e fa male uguale.\n\nScrivi nei commenti se ti succede 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "È diverso, e fa male uguale.",
+  "nota": ""
+ },
+ {
+  "id": 77,
   "data": "2026-10-09",
   "ora": "21:30",
   "tipo": "immagine",
@@ -572,7 +1066,20 @@
   "nota": ""
  },
  {
-  "id": 40,
+  "id": 78,
+  "data": "2026-10-09",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Rinascita",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-09_N.jpg"
+  ],
+  "didascalia": "Domani è un'altra occasione.\n\nMandala a chi ha avuto una giornata pesante 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Domani è un'altra occasione.",
+  "nota": ""
+ },
+ {
+  "id": 79,
   "data": "2026-10-10",
   "ora": "08:00",
   "tipo": "immagine",
@@ -585,7 +1092,7 @@
   "nota": ""
  },
  {
-  "id": 41,
+  "id": 80,
   "data": "2026-10-10",
   "ora": "13:00",
   "tipo": "carosello",
@@ -603,7 +1110,33 @@
   "nota": ""
  },
  {
-  "id": 42,
+  "id": 81,
+  "data": "2026-10-10",
+  "ora": "16:00",
+  "tipo": "immagine",
+  "tema": "Rinascita",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-10_P.jpg"
+  ],
+  "didascalia": "Ricominciare da sé è ricominciare davvero.\n\nSalvala per chi sta ricostruendo 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Ricominciare da sé è ricominciare davvero.",
+  "nota": ""
+ },
+ {
+  "id": 82,
+  "data": "2026-10-10",
+  "ora": "19:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-10_T.jpg"
+  ],
+  "didascalia": "Il resto sono parole.\n\nTagga chi te lo dimostra ogni giorno 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Il resto sono parole.",
+  "nota": ""
+ },
+ {
+  "id": 83,
   "data": "2026-10-10",
   "ora": "21:30",
   "tipo": "immagine",
@@ -613,6 +1146,19 @@
   ],
   "didascalia": "Che arrivi presto.\n\nMandala a chi deve smettere di aspettare 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "Che arrivi presto.",
+  "nota": ""
+ },
+ {
+  "id": 84,
+  "data": "2026-10-10",
+  "ora": "23:30",
+  "tipo": "immagine",
+  "tema": "Notte",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/2026-10-10_N.jpg"
+  ],
+  "didascalia": "Arriverà anche il tuo turno.\n\nTagga chi merita di ricevere di più 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Arriverà anche il tuo turno.",
   "nota": ""
  }
 ]
