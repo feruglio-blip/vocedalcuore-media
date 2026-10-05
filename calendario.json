@@ -1326,30 +1326,21 @@
   "nota": "SOSPESO: caroselli da modificare, non pubblicare"
  },
  {
-  "id": 77,
+  "id": 108,
   "data": "2026-10-09",
-  "ora": "16:00",
-  "tipo": "immagine",
-  "tema": "Amor proprio",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due pezzi di puzzle",
   "immagini": [
-   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_1600.jpg"
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/04_due-pezzi-di-puzzle/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/04_due-pezzi-di-puzzle/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/04_due-pezzi-di-puzzle/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/04_due-pezzi-di-puzzle/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/04_due-pezzi-di-puzzle/05.jpg"
   ],
-  "didascalia": "Leggila finché non ci credi.\n\nTagga chi lo deve ricordare 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
-  "prima_riga": "Leggila finché non ci credi.",
-  "nota": ""
- },
- {
-  "id": 78,
-  "data": "2026-10-09",
-  "ora": "19:00",
-  "tipo": "immagine",
-  "tema": "Nostalgia",
-  "immagini": [
-   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_1900.jpg"
-  ],
-  "didascalia": "È diverso, e fa male uguale.\n\nScrivi nei commenti se ti succede 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
-  "prima_riga": "È diverso, e fa male uguale.",
-  "nota": ""
+  "didascalia": "Non limarti gli angoli per nessuno.\n\nSalvalo per quando ti viene voglia di cambiare per qualcuno 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Non limarti gli angoli per nessuno.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
  },
  {
   "id": 79,
@@ -1362,19 +1353,6 @@
   ],
   "didascalia": "E a volte è peggio.\n\nSalvala se ne hai uno così 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "E a volte è peggio.",
-  "nota": ""
- },
- {
-  "id": 80,
-  "data": "2026-10-09",
-  "ora": "23:30",
-  "tipo": "immagine",
-  "tema": "Rinascita",
-  "immagini": [
-   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_2330.jpg"
-  ],
-  "didascalia": "Domani è un'altra occasione.\n\nMandala a chi ha avuto una giornata pesante 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
-  "prima_riga": "Domani è un'altra occasione.",
   "nota": ""
  },
  {
@@ -1409,30 +1387,21 @@
   "nota": "SOSPESO: caroselli da modificare, non pubblicare"
  },
  {
-  "id": 83,
+  "id": 109,
   "data": "2026-10-10",
-  "ora": "16:00",
-  "tipo": "immagine",
-  "tema": "Rinascita",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due candele",
   "immagini": [
-   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-10_1600.jpg"
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/05_due-candele/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/05_due-candele/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/05_due-candele/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/05_due-candele/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/05_due-candele/05.jpg"
   ],
-  "didascalia": "Ricominciare da sé è ricominciare davvero.\n\nSalvala per chi sta ricostruendo 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
-  "prima_riga": "Ricominciare da sé è ricominciare davvero.",
-  "nota": ""
- },
- {
-  "id": 84,
-  "data": "2026-10-10",
-  "ora": "19:00",
-  "tipo": "immagine",
-  "tema": "Amore",
-  "immagini": [
-   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-10_1900.jpg"
-  ],
-  "didascalia": "Il resto sono parole.\n\nTagga chi te lo dimostra ogni giorno 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
-  "prima_riga": "Il resto sono parole.",
-  "nota": ""
+  "didascalia": "La luce che conta è quella che resta.\n\nTagga chi resta acceso per te 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "La luce che conta è quella che resta.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
  },
  {
   "id": 85,
@@ -1448,9 +1417,125 @@
   "nota": ""
  },
  {
+  "id": 77,
+  "data": "2026-10-11",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "Amor proprio",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_1600.jpg"
+  ],
+  "didascalia": "Leggila finché non ci credi.\n\nTagga chi lo deve ricordare 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Leggila finché non ci credi.",
+  "nota": ""
+ },
+ {
+  "id": 110,
+  "data": "2026-10-11",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due orologi",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/06_due-orologi/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/06_due-orologi/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/06_due-orologi/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/06_due-orologi/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/06_due-orologi/05.jpg"
+  ],
+  "didascalia": "Non serve essere perfetti. Serve esserci in quel minuto.\n\nScrivi nei commenti qual è il vostro minuto 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Non serve essere perfetti. Serve esserci in quel minuto.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 78,
+  "data": "2026-10-11",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "Nostalgia",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_1900.jpg"
+  ],
+  "didascalia": "È diverso, e fa male uguale.\n\nScrivi nei commenti se ti succede 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "È diverso, e fa male uguale.",
+  "nota": ""
+ },
+ {
+  "id": 83,
+  "data": "2026-10-12",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "Rinascita",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-10_1600.jpg"
+  ],
+  "didascalia": "Ricominciare da sé è ricominciare davvero.\n\nSalvala per chi sta ricostruendo 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Ricominciare da sé è ricominciare davvero.",
+  "nota": ""
+ },
+ {
+  "id": 111,
+  "data": "2026-10-12",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due foglie",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/07_due-foglie/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/07_due-foglie/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/07_due-foglie/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/07_due-foglie/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/07_due-foglie/05.jpg"
+  ],
+  "didascalia": "Quello che è tuo trova la strada.\n\nMandalo a chi sta aspettando un ritorno 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Quello che è tuo trova la strada.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 80,
+  "data": "2026-10-12",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "Rinascita",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-09_2330.jpg"
+  ],
+  "didascalia": "Domani è un'altra occasione.\n\nMandala a chi ha avuto una giornata pesante 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
+  "prima_riga": "Domani è un'altra occasione.",
+  "nota": ""
+ },
+ {
+  "id": 84,
+  "data": "2026-10-13",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "Amore",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/2026-10-10_1900.jpg"
+  ],
+  "didascalia": "Il resto sono parole.\n\nTagga chi te lo dimostra ogni giorno 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
+  "prima_riga": "Il resto sono parole.",
+  "nota": ""
+ },
+ {
+  "id": 112,
+  "data": "2026-10-13",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due lettere",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/08_due-lettere/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/08_due-lettere/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/08_due-lettere/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/08_due-lettere/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/08_due-lettere/05.jpg"
+  ],
+  "didascalia": "Quante cose non dette.\n\nScrivi nei commenti cosa non hai mai detto 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Quante cose non dette.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
   "id": 86,
-  "data": "2026-10-10",
-  "ora": "23:30",
+  "data": "2026-10-13",
+  "ora": "21:30",
   "tipo": "immagine",
   "tema": "Notte",
   "immagini": [
@@ -1459,5 +1544,107 @@
   "didascalia": "Arriverà anche il tuo turno.\n\nTagga chi merita di ricevere di più 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "Arriverà anche il tuo turno.",
   "nota": ""
+ },
+ {
+  "id": 113,
+  "data": "2026-10-14",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due cuscini",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/09_due-cuscini/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/09_due-cuscini/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/09_due-cuscini/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/09_due-cuscini/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/09_due-cuscini/05.jpg"
+  ],
+  "didascalia": "Guarire è riprendersi lo spazio.\n\nSalvalo per chi sta ancora dormendo da una parte sola 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Guarire è riprendersi lo spazio.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 114,
+  "data": "2026-10-15",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due calamite",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/10_due-calamite/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/10_due-calamite/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/10_due-calamite/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/10_due-calamite/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/10_due-calamite/05.jpg"
+  ],
+  "didascalia": "A volte basta girarsi.\n\nTagga la persona con cui vi siete trovati dal lato giusto 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "A volte basta girarsi.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 115,
+  "data": "2026-10-16",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due fili di lana",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/11_due-fili-di-lana/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/11_due-fili-di-lana/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/11_due-fili-di-lana/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/11_due-fili-di-lana/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/11_due-fili-di-lana/05.jpg"
+  ],
+  "didascalia": "Le storie che restano sono quelle pazienti.\n\nMandalo a chi ha pazienza con te 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Le storie che restano sono quelle pazienti.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 116,
+  "data": "2026-10-17",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due biglietti del treno",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/12_due-biglietti-del-treno/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/12_due-biglietti-del-treno/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/12_due-biglietti-del-treno/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/12_due-biglietti-del-treno/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/12_due-biglietti-del-treno/05.jpg"
+  ],
+  "didascalia": "Per chi è ancora sul binario.\n\nSalvalo per il giorno in cui dovrai decidere se partire 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Per chi è ancora sul binario.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 117,
+  "data": "2026-10-18",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due sedie",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/13_due-sedie/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/13_due-sedie/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/13_due-sedie/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/13_due-sedie/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/13_due-sedie/05.jpg"
+  ],
+  "didascalia": "Per chi apparecchia ancora per due.\n\nMandalo a chi deve smettere di aspettare 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Per chi apparecchia ancora per due.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 118,
+  "data": "2026-10-19",
+  "ora": "13:00",
+  "tipo": "carosello",
+  "tema": "Storia: Due conchiglie",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/14_due-conchiglie/01.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/14_due-conchiglie/02.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/14_due-conchiglie/03.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/14_due-conchiglie/04.jpg",
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/d/storie/14_due-conchiglie/05.jpg"
+  ],
+  "didascalia": "Non conta da dove vieni.\n\nTagga chi suona uguale a te 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
+  "prima_riga": "Non conta da dove vieni.",
+  "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
  }
 ]
