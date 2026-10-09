@@ -1366,7 +1366,7 @@
   ],
   "didascalia": "Oggi soprattutto.\n\nMandala a chi è troppo severo con sé stesso 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
   "prima_riga": "Oggi soprattutto.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 82,
@@ -1414,7 +1414,7 @@
   ],
   "didascalia": "Che arrivi presto.\n\nMandala a chi deve smettere di aspettare 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "Che arrivi presto.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 77,
@@ -1427,7 +1427,7 @@
   ],
   "didascalia": "Leggila finché non ci credi.\n\nTagga chi lo deve ricordare 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
   "prima_riga": "Leggila finché non ci credi.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 110,
@@ -1457,7 +1457,7 @@
   ],
   "didascalia": "È diverso, e fa male uguale.\n\nScrivi nei commenti se ti succede 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "È diverso, e fa male uguale.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 83,
@@ -1470,7 +1470,7 @@
   ],
   "didascalia": "Ricominciare da sé è ricominciare davvero.\n\nSalvala per chi sta ricostruendo 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
   "prima_riga": "Ricominciare da sé è ricominciare davvero.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 111,
@@ -1500,7 +1500,7 @@
   ],
   "didascalia": "Domani è un'altra occasione.\n\nMandala a chi ha avuto una giornata pesante 🖤\n\n#frasi #frasimotivazionali #amorproprio #crescitapersonale #pensieripositivi #frasedelgiorno #citazioni #rinascita #forza #parole #vocedalcuore",
   "prima_riga": "Domani è un'altra occasione.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 84,
@@ -1513,7 +1513,7 @@
   ],
   "didascalia": "Il resto sono parole.\n\nTagga chi te lo dimostra ogni giorno 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "Il resto sono parole.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 112,
@@ -1543,7 +1543,7 @@
   ],
   "didascalia": "Arriverà anche il tuo turno.\n\nTagga chi merita di ricevere di più 🖤\n\n#frasi #frasivere #aforismi #pensieridellasera #citazioniamore #frasiitaliane #amore #cuore #riflessioni #anima #vocedalcuore",
   "prima_riga": "Arriverà anche il tuo turno.",
-  "nota": ""
+  "nota": "SOSTITUITO dal test stili del 10/10"
  },
  {
   "id": 113,
@@ -1646,5 +1646,265 @@
   "didascalia": "Non conta da dove vieni.\n\nTagga chi suona uguale a te 🖤\n\nStorie brevi, una nuova ogni giorno alle 13: segui @vocedalcuore per leggerle tutte.\n\n#frasi #frasiamore #storiebrevi #pensieri #citazioni #frasedelgiorno #sentimenti #parole #frasibelle #emozioni #vocedalcuore",
   "prima_riga": "Non conta da dove vieni.",
   "nota": "IN ATTESA OK DI MATTEO: nuova grafica storie"
+ },
+ {
+  "id": 119,
+  "data": "2026-10-10",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-10_0800_A.jpg"
+  ],
+  "didascalia": "Impara la differenza.\n\nMandala a chi risponde sempre subito 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Impara la differenza.",
+  "nota": ""
+ },
+ {
+  "id": 120,
+  "data": "2026-10-10",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-10_2130_B.jpg"
+  ],
+  "didascalia": "Poi ti guardi indietro e capisci.\n\nSalvala per quando ti servirà 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Poi ti guardi indietro e capisci.",
+  "nota": ""
+ },
+ {
+  "id": 121,
+  "data": "2026-10-11",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-11_0800_C.jpg"
+  ],
+  "didascalia": "Smetti di aspettare il telefono.\n\nMandala a chi sta ancora aspettando 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Smetti di aspettare il telefono.",
+  "nota": ""
+ },
+ {
+  "id": 122,
+  "data": "2026-10-11",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-11_2130_A.jpg"
+  ],
+  "didascalia": "Questione di dignità.\n\nSalvala per i giorni difficili 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Questione di dignità.",
+  "nota": ""
+ },
+ {
+  "id": 123,
+  "data": "2026-10-12",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-12_0800_B.jpg"
+  ],
+  "didascalia": "Smetti di dare la colpa al tempo.\n\nMandala a chi ci pensa ancora 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Smetti di dare la colpa al tempo.",
+  "nota": ""
+ },
+ {
+  "id": 124,
+  "data": "2026-10-12",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-12_2130_C.jpg"
+  ],
+  "didascalia": "Pochi restano quando si fa profondo.\n\nTagga chi è rimasto 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Pochi restano quando si fa profondo.",
+  "nota": ""
+ },
+ {
+  "id": 125,
+  "data": "2026-10-13",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-13_0800_A.jpg"
+  ],
+  "didascalia": "Non è successo all'improvviso.\n\nMandala a chi deve leggerla 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Non è successo all'improvviso.",
+  "nota": ""
+ },
+ {
+  "id": 126,
+  "data": "2026-10-13",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-13_2130_B.jpg"
+  ],
+  "didascalia": "Soprattutto in questi giorni.\n\nSalvala se ne hai uno così 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Soprattutto in questi giorni.",
+  "nota": ""
+ },
+ {
+  "id": 127,
+  "data": "2026-10-14",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-14_0800_C.jpg"
+  ],
+  "didascalia": "Ascolta quello che non dice.\n\nMandala a chi si sente di troppo 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Ascolta quello che non dice.",
+  "nota": ""
+ },
+ {
+  "id": 128,
+  "data": "2026-10-14",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-14_2130_A.jpg"
+  ],
+  "didascalia": "Questione di attimi.\n\nScrivi nei commenti cosa senti tu 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Questione di attimi.",
+  "nota": ""
+ },
+ {
+  "id": 129,
+  "data": "2026-10-15",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-15_0800_B.jpg"
+  ],
+  "didascalia": "Grazie, in un certo senso.\n\nSalvala per non dimenticarlo 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Grazie, in un certo senso.",
+  "nota": ""
+ },
+ {
+  "id": 130,
+  "data": "2026-10-15",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-15_2130_C.jpg"
+  ],
+  "didascalia": "Tutto torna, prima o poi.\n\nSalvala per quando ti servirà 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Tutto torna, prima o poi.",
+  "nota": ""
+ },
+ {
+  "id": 131,
+  "data": "2026-10-16",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-16_0800_A.jpg"
+  ],
+  "didascalia": "È diverso.\n\nMandala a chi deve capirlo 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "È diverso.",
+  "nota": ""
+ },
+ {
+  "id": 132,
+  "data": "2026-10-16",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-16_2130_B.jpg"
+  ],
+  "didascalia": "Nostalgia canaglia.\n\nScrivi nei commenti se ti succede 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Nostalgia canaglia.",
+  "nota": ""
+ },
+ {
+  "id": 133,
+  "data": "2026-10-17",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-17_0800_C.jpg"
+  ],
+  "didascalia": "Da lì in poi, tutto più chiaro.\n\nSalvala per il giorno in cui serve 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Da lì in poi, tutto più chiaro.",
+  "nota": ""
+ },
+ {
+  "id": 134,
+  "data": "2026-10-17",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo 2021",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-17_2130_A.jpg"
+  ],
+  "didascalia": "Quando arriva quel momento, tutto cambia.\n\nMandala a chi deve leggerla 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Quando arriva quel momento, tutto cambia.",
+  "nota": ""
+ },
+ {
+  "id": 135,
+  "data": "2026-10-18",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-18_0800_B.jpg"
+  ],
+  "didascalia": "Adesso no.\n\nMandala a chi deve smettere di aspettare 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Adesso no.",
+  "nota": ""
+ },
+ {
+  "id": 136,
+  "data": "2026-10-18",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST C attuale | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-18_2130_C.jpg"
+  ],
+  "didascalia": "Se devi chiederlo, lo sai già.\n\nTagga chi non ti lascia mai nel dubbio 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Se devi chiederlo, lo sai già.",
+  "nota": ""
+ },
+ {
+  "id": 137,
+  "data": "2026-10-19",
+  "ora": "08:00",
+  "tipo": "immagine",
+  "tema": "TEST A vecchio 2021 | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-19_0800_A.jpg"
+  ],
+  "didascalia": "Conta chi resta quando non conviene.\n\nTagga chi è rimasto sempre 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Conta chi resta quando non conviene.",
+  "nota": ""
+ },
+ {
+  "id": 138,
+  "data": "2026-10-19",
+  "ora": "21:30",
+  "tipo": "immagine",
+  "tema": "TEST B grande | testo nuova",
+  "immagini": [
+   "https://raw.githubusercontent.com/feruglio-blip/vocedalcuore-media/main/posts/test/2026-10-19_2130_B.jpg"
+  ],
+  "didascalia": "Anche il silenzio è una risposta.\n\nSalvala per la prossima volta che ti scrive 🖤\n\n#frasi #frasiamore #frasivere #pensieri #citazioni #frasedelgiorno #amorproprio #lasciareandare #parole #vocedalcuore",
+  "prima_riga": "Anche il silenzio è una risposta.",
+  "nota": ""
  }
 ]
